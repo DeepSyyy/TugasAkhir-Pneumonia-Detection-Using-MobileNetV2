@@ -1,0 +1,12 @@
+# Ignore data.zip file
+data.zip
+
+# Ignore init.sh script
+init.sh
+
+# Ignore Dataset directory
+Dataset/
+
+# Ignore SplittedData directory
+SplittedData/
+
