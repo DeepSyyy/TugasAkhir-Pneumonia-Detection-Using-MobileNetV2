@@ -10,3 +10,5 @@ Dataset/
 # Ignore SplittedData directory
 SplittedData/
 
+# ignore another dataset
+another_test/
