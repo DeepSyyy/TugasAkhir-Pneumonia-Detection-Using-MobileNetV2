@@ -14,4 +14,5 @@ pip install scikit-learn
 pip install scipy 
 pip install opencv-python
 pip install seaborn
+pip install imbalanced-learn
 echo "Inisialisasi Berhasil"
